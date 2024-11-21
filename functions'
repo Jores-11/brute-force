@@ -1,0 +1,18 @@
+
+#include <iostream>
+using namespace std;
+
+    void greeting(void) {
+        cout << "Hello, World!" <<endl;
+        cout << "How are you" <<endl;
+        cout << "Fine and you" <<endl;
+}
+
+int main(){
+
+    greeting();
+
+   
+
+    return 0;
+}
